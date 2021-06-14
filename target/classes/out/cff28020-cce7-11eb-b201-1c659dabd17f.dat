@@ -1,0 +1,20 @@
+[
+  {
+    "empLocation": "Hyd",
+    "empName": "Ashok",
+    "empCompa": "LNT",
+    "empid": 123
+  },
+  {
+    "empLocation": "Hyd",
+    "empName": "adi",
+    "empCompa": "Accenture",
+    "empid": 234
+  },
+  {
+    "empLocation": "Hyd",
+    "empName": "Linga",
+    "empCompa": "Delloite",
+    "empid": 345
+  }
+]
